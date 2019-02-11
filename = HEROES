@@ -1,0 +1,29 @@
+[33mcommit 41c40c3308c27273a3c4da40ae2556b0d6e23ea4[m[33m ([m[1;36mHEAD -> [m[1;32mSecc1.1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Miguel <miguel_144a@hotmail.com>
+Date:   Sun Feb 10 14:58:08 2019 -0600
+
+    Se agrego el archivo mock-heroes.ts
+
+[33mcommit 1600878a3917568a812d589cd682672d97431ab5[m
+Author: Miguel <miguel_144a@hotmail.com>
+Date:   Sun Feb 10 14:44:28 2019 -0600
+
+    When the clone the projct, It was modificated
+
+[33mcommit afce5693f6a2e6808a6d949db3886449b814121e[m
+Author: Miguel <miguel_144a@hotmail.com>
+Date:   Thu Feb 7 09:46:32 2019 -0600
+
+    Prueba desde Visual studio code
+
+[33mcommit efe8ed7c511f374bfbeed6ffed26a35d6da945e0[m
+Author: Miguel <miguel_144a@hotmail.com>
+Date:   Wed Feb 6 08:00:31 2019 -0600
+
+    Se agrego al archivo .gitignore la carpeta node_modules
+
+[33mcommit c8e8ebb5f08341219885b1054bb9773637591573[m
+Author: Miguel <miguel_144a@hotmail.com>
+Date:   Wed Feb 6 07:52:38 2019 -0600
+
+    Primera carga a GitHub
